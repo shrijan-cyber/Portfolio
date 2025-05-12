@@ -13,7 +13,6 @@ const ProjectSection = () => {
       description: "A MERN stack platform for students to choose career paths, build resumes, find accommodation, and get course guidance.",
       tech: ["MongoDB", "Express", "React", "Node.js", "Tailwind CSS"],
       details: "StudentX helps students navigate their educational journey by providing tools for career exploration, resume building, accommodation search, and course selection guidance.",
-      demoUrl: "#",
       githubUrl: "https://github.com/shrijan-cyber/Hackathon-project.git"
     },
     {
@@ -30,8 +29,8 @@ const ProjectSection = () => {
       description: "A fully responsive portfolio website to showcase skills and projects.",
       tech: ["HTML", "CSS", "JavaScript", "Tailwind", "React"],
       details: "Designed using modern UI principles and deployed on GitHub Pages for showcasing frontend capabilities.",
-      demoUrl: "#",
-      githubUrl: "#"
+  
+      githubUrl: "https://github.com/shrijan-cyber/Portfolio.git"
     }
   ];
 
